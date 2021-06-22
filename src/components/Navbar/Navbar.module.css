@@ -1,0 +1,12 @@
+.navbar_block {
+	height:100%;
+	width:15em;
+	font-size:1.1em;
+}
+.navbar_links:not(:first-child) {
+	margin:2em 0;
+}
+
+.activeLink {
+	color:#597da3;
+}

@@ -1,0 +1,6 @@
+.styles_preloader {
+	display:inline-block;
+	position:absolute;
+	left:calc(100% / 2);
+	top:calc(100% / 3);
+}
